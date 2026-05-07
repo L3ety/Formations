@@ -1,0 +1,9 @@
+.intro{
+    color: red; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.intro:hover{
+    color: red;
+    font-size: 50px;
+}
